@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-memo/static/js/main.f826707b.chunk.js",
+    "main.js.map": "/react-memo/static/js/main.f826707b.chunk.js.map",
+    "runtime-main.js": "/react-memo/static/js/runtime-main.e338e71e.js",
+    "runtime-main.js.map": "/react-memo/static/js/runtime-main.e338e71e.js.map",
+    "static/js/2.7bb592f5.chunk.js": "/react-memo/static/js/2.7bb592f5.chunk.js",
+    "static/js/2.7bb592f5.chunk.js.map": "/react-memo/static/js/2.7bb592f5.chunk.js.map",
+    "index.html": "/react-memo/index.html",
+    "static/js/2.7bb592f5.chunk.js.LICENSE.txt": "/react-memo/static/js/2.7bb592f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e338e71e.js",
+    "static/js/2.7bb592f5.chunk.js",
+    "static/js/main.f826707b.chunk.js"
+  ]
+}
